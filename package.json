@@ -1,6 +1,6 @@
 {
   "name": "zefi_atm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple ATM simulator for basic banking operations, built with TypeScript and Node.js, utilizing Inquirer for user interaction.",
   "main": "index.js",
   "type": "module",
