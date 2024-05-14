@@ -1,10 +1,12 @@
 {
-  "name": "zefi_atm",
+  "name": "zefi_atm_money_magic",
   "version": "2.0.1",
   "description": "A simple ATM simulator for basic banking operations, built with TypeScript and Node.js, utilizing Inquirer for user interaction.",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": {
+    "zefi_atm": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
